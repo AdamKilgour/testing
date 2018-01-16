@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 .page-header{
   background: skyblue;
- background-image:url(http://www.noahsarkps.org.uk/wp-content/uploads/2017/04/edit-8-300x241.jpg);
-  background-size: stretch ; 
+  background-image:url(http://www.noahsarkps.org.uk/wp-content/uploads/2017/04/edit-8-300x241.jpg);
+  background-size: cover ;
+  background-repeat:no-repeat;
 }

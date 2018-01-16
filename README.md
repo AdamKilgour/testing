@@ -1,4 +1,4 @@
-//About us//
+About us
 
 Noah’s Ark @CRBC (Cairns Road Baptist Church) is responsible for Noah’s Ark Preschool and a variety of family support groups which serve children and families in Westbury Park and the surrounding area.   Our inclusive preschool provides a well resourced and nurturing learning environment for children aged 2-5years. This is enhanced by a team of highly qualified and experienced staff who work together to deliver a well planned curriculum which allows children to explore, learn and develop from the starting point of their individual interests and experiences.
 

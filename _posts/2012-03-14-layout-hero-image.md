@@ -1,5 +1,6 @@
 ---
 title: "Layout: Hero Image"
+Layout: Hero Image
 image: image: /assets/images/banner.jpg
 categories:
   - Layout
@@ -8,9 +9,11 @@ tags:
   - image
   - layout
 last_modified_at: 2017-03-17T10:46:49-04:00
+
 ---
 
 hello world
+testing
 This post should display a large hero image at the top of a page.
 
 This post tests a horizontal image using the following YAML Front Matter:

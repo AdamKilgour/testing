@@ -1,6 +1,6 @@
 ---
 title: "Layout: Hero Image"
-image: /assets/images/house-edited.jpg
+image: /assets/images/house edited.jpg
 categories:
   - Layout
 tags:

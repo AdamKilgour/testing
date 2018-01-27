@@ -1,6 +1,6 @@
 ---
 title: "Layout: Hero Image"
-image: /assets/images/eder-oliveira-180877.jpg
+image: /assets/images/house-edited.jpg
 categories:
   - Layout
 tags:

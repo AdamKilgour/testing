@@ -1,5 +1,7 @@
 ---
 ---
+@import "{{ site.theme }}"; 
+
 .page-header {
   color: #fff;
   text-align: center;
@@ -15,7 +17,7 @@
     .page-header {
       padding: 2rem 1rem; } }
 
-@import "{{ site.theme }}"; 
+
 .navbar{
     width: 640px;
     margin-left:auto;
